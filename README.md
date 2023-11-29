@@ -3,8 +3,11 @@ Guide on how to quickly set up mailvelope, for people who have used it before bu
 
 ## Download extension
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/)
+
 [Edge Store](https://microsoftedge.microsoft.com/addons/detail/mailvelope/dgcbddhdhjppfdfjpciagmmibadmoapc)
+
 [Chrome Web Store](https://chrome.google.com/webstore/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke)
+
 In my experience the Edge Store is more reliable than the Chrome Store, use it if you can.
 
 ## Import private keys
